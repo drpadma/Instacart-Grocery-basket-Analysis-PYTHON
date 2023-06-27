@@ -3,12 +3,12 @@ Instacart is an online grocery store that operates through an app in the US. The
 ## Data
 Opensource data from 2017 made available by Instacart.
 ## Tools Used
-Python
-Jupiter notebook
-Excel
+- Python
+- Jupiter notebook
+- Excel
 ### The libraries used
-Pandas
-Numpy
-Seaborn
-Matplotlib
-Scipy
+* Pandas
+* Numpy
+* Seaborn
+* Matplotlib
+* Scipy
